@@ -1,0 +1,17 @@
+body {
+	background-color: #000;
+	color: #FFFFFF;
+	font-family: Verdana, Sans-serif;
+	text-align: center;
+}
+h1 {
+	color: #c8c8c8;
+	text-transform: uppercase;
+}
+#slogan {
+	font-weight: normal;
+	text-transform: uppercase;	
+}
+ul {
+      list-style-type: none;
+}
