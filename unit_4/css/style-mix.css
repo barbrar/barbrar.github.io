@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Overlock:400,900);
+body {
+	background-color: #000;
+	color: #FFFFFF;
+	font-family: 'Fira Sans', sans-serif;
+	text-align: center;
+}
+h1, h2 {
+	color: #c8c8c8;
+	font-family: 'Overlock', cursive;
+	text-transform: uppercase;
+}
+#slogan {
+	color: #87cefa;
+}
+ul {
+      list-style-type: none;
+      padding: 10px;
+      margin: 0px;
+}
