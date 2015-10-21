@@ -1,0 +1,106 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500);
+body {
+	font-size: 18px;
+	font-family: 'Roboto', Arial, sans-serif;
+}
+h1, h2 {
+	text-transform: lowercase;
+}
+div { 
+	font-size: 1.5em;
+	padding: 0%;
+	display: inline-block;
+}
+#top {
+	clear: both;
+}
+#title{
+	font-family: Rockwell, serif;
+	float: left;
+	line-height: .5em;
+	background: #e4ffe4;
+	width: 72%;
+	padding-left: 3%;
+
+}
+#nav {
+	font-family: Rockwell, serif;
+	float: right;
+	line-height: 1em;
+	background: #fff;
+	width: 25%;
+}
+#photo {
+	
+}
+#top1 {
+	text-align: center;
+	width: 100%;
+	background: #f1f1f1;
+	display: inline-block;
+	float: left;
+}
+#image {	
+	width: 300px;
+	padding: 20px;
+}	
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+ul a {
+	color: #000;
+	text-decoration: none;
+}
+li {
+  color: #000;
+  background: #fff;
+}
+#active {
+	color:#fff;
+	background-color: #000;
+	padding-left: .5em;
+	padding-top: 1em;
+	padding-bottom: .5em;
+	font-weight: 500;
+	font-size: 1.25em;
+}
+#inactive {
+	padding-left: .5em;
+	padding-top: .5em;
+	padding-bottom: .25em;
+}
+#active a {
+	color: #fff;
+}
+.clearfix {
+	overflow: auto;
+}
+#blogtitle {	
+}
+#blogpost {
+	float: left;
+	width: 75%;
+}
+#blogimage {
+	float: right;
+	text-align: right;
+	width: 25%;
+}
+#posts {
+	background: #f1f1f1;
+	font-size: 14px;
+	padding: 10px;
+}
+footer {
+	color: #000;
+	background: #e4ffe4;
+	padding: 1.5em;
+	text-align: center;
+	clear: both;
+}
+footer a {
+	color: #000;
+	text-decoration: none;
+}
